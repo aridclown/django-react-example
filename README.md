@@ -1,6 +1,6 @@
 # React App + Django API
 
-A simple integration between a Django API and a React App as a result of my article: [Creating an app with React and Django](https://blog.logrocket.com/creating-an-app-with-react-and-django/).
+A simple integration between a Django API and a React App.
 
 This project consists of two internal projects:
 
